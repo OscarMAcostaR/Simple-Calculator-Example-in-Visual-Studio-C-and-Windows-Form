@@ -1,0 +1,9 @@
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\bin\Debug\Ejemplo de Calculadora simple.exe.config
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\bin\Debug\Ejemplo de Calculadora simple.exe
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\bin\Debug\Ejemplo de Calculadora simple.pdb
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\obj\Debug\Ejemplo de Calculadora simple.csprojResolveAssemblyReference.cache
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\obj\Debug\Ejemplo_de_Calculadora_simple.Form1.resources
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\obj\Debug\Ejemplo_de_Calculadora_simple.Properties.Resources.resources
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\obj\Debug\Ejemplo de Calculadora simple.csproj.GenerateResource.Cache
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\obj\Debug\Ejemplo de Calculadora simple.exe
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Ejemplo de Calculadora simple\Ejemplo de Calculadora simple\obj\Debug\Ejemplo de Calculadora simple.pdb
